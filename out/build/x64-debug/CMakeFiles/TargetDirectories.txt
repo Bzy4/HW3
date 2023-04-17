@@ -1,0 +1,5 @@
+D:/vsprojects/HW2/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/vsprojects/HW2/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/vsprojects/HW2/out/build/x64-debug/HW2/CMakeFiles/HW2.dir
+D:/vsprojects/HW2/out/build/x64-debug/HW2/CMakeFiles/edit_cache.dir
+D:/vsprojects/HW2/out/build/x64-debug/HW2/CMakeFiles/rebuild_cache.dir
